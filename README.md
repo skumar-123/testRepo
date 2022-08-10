@@ -1,2 +1,3 @@
-# testRepo
-testing basic git commands
+testing the git commands
+purpose of git status
+

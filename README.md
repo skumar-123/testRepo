@@ -8,3 +8,5 @@ new commit at 7th line in test branch
 new commit at 8th line in testBranch
 new commit at 9th line
 main branch 7th line commit
+11th line added
+12th line added
